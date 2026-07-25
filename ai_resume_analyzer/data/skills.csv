@@ -1,0 +1,75 @@
+skill,category,aliases
+Python,Programming,python|py
+Java,Programming,java
+JavaScript,Programming,javascript|js
+TypeScript,Programming,typescript|ts
+C++,Programming,c++
+C#,Programming,c#|c sharp
+SQL,Data,sql
+MySQL,Data,mysql
+PostgreSQL,Data,postgresql|postgres
+MongoDB,Data,mongodb|mongo db
+AWS,Cloud,aws|amazon web services
+Azure,Cloud,azure|microsoft azure
+GCP,Cloud,gcp|google cloud|google cloud platform
+Docker,DevOps,docker|containerization
+Kubernetes,DevOps,kubernetes|k8s
+Git,Tools,git|version control
+GitHub,Tools,github
+CI/CD,DevOps,ci/cd|continuous integration|continuous deployment
+Linux,Tools,linux|unix
+REST API,Backend,rest api|restful api|api development
+FastAPI,Backend,fastapi
+Django,Backend,django
+Flask,Backend,flask
+Streamlit,Backend,streamlit
+Node.js,Backend,node.js|nodejs
+React,Frontend,react|react.js
+HTML,Frontend,html|html5
+CSS,Frontend,css|css3
+Tailwind CSS,Frontend,tailwind|tailwind css
+Bootstrap,Frontend,bootstrap
+Pandas,Data,pandas
+NumPy,Data,numpy
+scikit-learn,AI,scikit-learn|sklearn
+TensorFlow,AI,tensorflow
+PyTorch,AI,pytorch
+Machine Learning,AI,machine learning|ml
+Deep Learning,AI,deep learning
+NLP,AI,nlp|natural language processing
+Data Analysis,Data,data analysis|data analytics
+Data Visualization,Data,data visualization|visualization
+Power BI,Analytics,power bi|powerbi
+Tableau,Analytics,tableau
+Excel,Business,microsoft excel|excel|spreadsheets
+Statistics,Data,statistics|statistical analysis
+A/B Testing,Analytics,a/b testing|ab testing
+ETL,Data Engineering,etl|data pipeline|data pipelines
+Spark,Data Engineering,spark|apache spark
+Hadoop,Data Engineering,hadoop
+Airflow,Data Engineering,airflow|apache airflow
+Snowflake,Data Engineering,snowflake
+Testing,Quality,testing|qa|quality assurance
+Selenium,Quality,selenium
+Unit Testing,Quality,unit testing|pytest|unittest
+Microservices,Architecture,microservices
+System Design,Architecture,system design|software architecture
+Object-Oriented Programming,Programming,oop|object oriented programming
+Agile,Methodology,agile|scrum|kanban
+Project Management,Methodology,project management|project planning
+Jira,Tools,jira
+Figma,Design,figma
+UI/UX,Design,ui/ux|ux design|user experience|user interface
+Communication,Soft Skill,communication|written communication|verbal communication
+Leadership,Soft Skill,leadership|team leadership
+Teamwork,Soft Skill,teamwork|collaboration|cross functional collaboration
+Problem Solving,Soft Skill,problem solving|analytical thinking
+Time Management,Soft Skill,time management|prioritization
+Adaptability,Soft Skill,adaptability|flexibility
+Critical Thinking,Soft Skill,critical thinking
+Stakeholder Management,Soft Skill,stakeholder management
+Presentation,Soft Skill,presentation|presentations|public speaking
+Customer Service,Soft Skill,customer service|client support
+Business Analysis,Business,business analysis|business analyst
+Salesforce,Business,salesforce
+Marketing,Business,marketing|digital marketing
