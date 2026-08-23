@@ -552,7 +552,7 @@ def main() -> None:
                     """
                 )
             )
-            st.progress(int(round(ats_result["overall_score"])))
+            st.progress(min(100, max(0, int(round(ats_result["overall_score"])))))
             st.caption(ats_result["summary"])
 
         with st.expander("View Extracted Resume Text", expanded=False):

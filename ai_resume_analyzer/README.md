@@ -1,2 +1,0 @@
-# ai_resume_analyzer
-
