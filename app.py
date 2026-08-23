@@ -685,3 +685,18 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+def handler(request=None, response=None):
+    """Vercel Serverless Function entrypoint compatibility handler."""
+    return {
+        "statusCode": 200,
+        "headers": {"Content-Type": "text/html"},
+        "body": "AI Resume Analyzer Streamlit App",
+    }
+
+
+# Top-level exports for Vercel Serverless Python detector
+app = handler
+application = handler
+
